@@ -2,9 +2,7 @@
 
 Fitness Tracker Application created using PHP, HTML, Bootstrap and MariaDB. This project was created for CSCI466 - Databases course at Northern Illinois University. The project was created in collaboration with 5 other Computer Science students.
 
-The following link is a demonstration of the application: https://youtu.be/lw5HBYMc094
-
-The following link is the application hosted on NIU's student server: http://students.cs.niu.edu/~z1875089/fitness-app/App/
+The following link is a narrated demonstration of the application: https://youtu.be/qtIwJFJLzEw
 
 ## Directory Description
   - App - contains the source files and other files used by the application
