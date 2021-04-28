@@ -7,5 +7,5 @@ The following link is a narrated demonstration of the application: https://youtu
 ## Directory Description
   - App - contains the source files and other files used by the application
   - SQL - contains the SQL scripts used to create and populate the database
-  - Screenshots - contains screenshots of the running app. check the video for more in-depth detail.
   - Schematics - contains the schematics created in the planning phase of the project, such as the ER Diagram, Database Schema in 3rd normal form and the Diagram description.
+  - Screenshots - contains screenshots of the running app. check the video for more in-depth detail.
